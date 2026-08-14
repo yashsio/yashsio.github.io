@@ -1,47 +1,43 @@
-/* ==========================================================================
-   Academic Pages - Pre-compiled CSS
-   Based on Minimal Mistakes theme
-   ========================================================================== */
-
-/* CSS Variables - Light Theme */
 :root {
-    --global-base-color: #2f7f93;
+    color-scheme: light;
+    --global-base-color: #36c;
     --global-bg-color: #fff;
-    --global-footer-bg-color: #f2f3f3;
-    --global-border-color: #e8e8e8;
-    --global-dark-border-color: #bdc1c4;
-    --global-code-background-color: #fafafa;
-    --global-code-text-color: #333;
-    --global-fig-caption-color: #666;
-    --global-link-color: #52adc8;
-    --global-link-color-hover: #235e6e;
-    --global-link-color-visited: #7fbfcc;
-    --global-masthead-link-color: #333;
-    --global-masthead-link-color-hover: #5c5c5c;
-    --global-text-color: #333;
-    --global-text-color-light: #7a8288;
-    --global-thead-color: #e8e8e8;
+    --global-footer-bg-color: #f8f9fa;
+    --global-border-color: #c8ccd1;
+    --global-dark-border-color: #a2a9b1;
+    --global-code-background-color: #f8f9fa;
+    --global-code-text-color: #202122;
+    --global-fig-caption-color: #54595d;
+    --global-link-color: #36c;
+    --global-link-color-hover: #3056a9;
+    --global-link-color-visited: #6a60b0;
+    --global-masthead-link-color: #202122;
+    --global-masthead-link-color-hover: #3056a9;
+    --global-text-color: #202122;
+    --global-text-color-light: #54595d;
+    --global-thead-color: #eaecf0;
 }
 
 /* CSS Variables - Dark Theme */
 @media (prefers-color-scheme: dark) {
     :root {
-        --global-base-color: #0ea1c5;
-        --global-bg-color: #474747;
-        --global-footer-bg-color: #474747;
-        --global-border-color: #b0b0b0;
-        --global-dark-border-color: #737373;
-        --global-code-background-color: #fafafa;
-        --global-code-text-color: #333;
-        --global-fig-caption-color: #b0b0b0;
-        --global-link-color: #0ea1c5;
-        --global-link-color-hover: #0a7a96;
-        --global-link-color-visited: #4dc4e0;
-        --global-masthead-link-color: #fff;
-        --global-masthead-link-color-hover: #0ea1c5;
-        --global-text-color: #fff;
-        --global-text-color-light: #f3f3f3;
-        --global-thead-color: #616161;
+        color-scheme: dark;
+        --global-base-color: #36c;
+        --global-bg-color: #101418;
+        --global-footer-bg-color: #202122;
+        --global-border-color: #54595d;
+        --global-dark-border-color: #72777d;
+        --global-code-background-color: #27292d;
+        --global-code-text-color: #eaecf0;
+        --global-fig-caption-color: #a2a9b1;
+        --global-link-color: #88a3e8;
+        --global-link-color-hover: #a6bbf5;
+        --global-link-color-visited: #a799cd;
+        --global-masthead-link-color: #f8f9fa;
+        --global-masthead-link-color-hover: #a6bbf5;
+        --global-text-color: #f8f9fa;
+        --global-text-color-light: #a2a9b1;
+        --global-thead-color: #27292d;
     }
 }
 
