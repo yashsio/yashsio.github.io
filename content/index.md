@@ -1,6 +1,6 @@
 +++
 permalink = "/"
-title = "Index"
+title = "About"
 +++
 ---
 Hello, I'm Yash Sharma, a **Software Engineer & Independent Researcher**.
