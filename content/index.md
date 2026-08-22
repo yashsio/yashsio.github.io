@@ -1,7 +1,6 @@
 +++
 permalink = "/"
-title = "About"
-author_profile = true
+title = "Index"
 +++
 ---
 Hello, I'm Yash Sharma, a **Software Engineer & Independent Researcher**.
@@ -20,3 +19,4 @@ If you like any of my work, consider supporting its development.
 
 ---
 Feel free to reach out by [email](mailto:contact.untracked799@passinbox.com) for a resume/CV and further information if you are interested in hiring me.
+
