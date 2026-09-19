@@ -1,7 +1,0 @@
-build/
-public/
-.git/
-.github/
-*.md
-.gitignore
-LICENSE
